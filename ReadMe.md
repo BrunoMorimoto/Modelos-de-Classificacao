@@ -1,4 +1,4 @@
-**Previsão de Insuficiência Cardíaca**
+**Previsão de Insuficiência Cardíaca ❤️⚕️**
 
 **Objetivo**
 - Desenvolver um modelo preditivo capaz de identificar o risco de insuficiência cardíaca em pacientes, utilizando técnicas de análise de dados e aprendizado de máquina, com foco em auxiliar na tomada de decisão clínica.
